@@ -21,9 +21,11 @@
 `git add *.txt`
 
 - Assuming a remote reposistory at https://github.com/myawesomegitname/my_repo.git, how would you add the remote repository to your local git?
-  `git clone https://github.com/myawesomegitname/my_repo.git `
+  `git clone https://github.com/myawesomegitname/my_repo.git "New Folder Name if you want"`
 
 - To make a new git branch, the git command is?
+
+`git checkout -b branchName`
 
 - After you install Git and prior to issuing the first commit, which two configuration properties does the tool expect to be configured?
 
