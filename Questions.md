@@ -42,3 +42,4 @@
 `git switch master`
 
 - Which command deletes untracked for your working directory?
+  `git reset `
