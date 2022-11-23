@@ -28,6 +28,7 @@
 `git checkout -b branchName`
 
 - After you install Git and prior to issuing the first commit, which two configuration properties does the tool expect to be configured?
+  SSH and git email address
 
 - Git fetch + git merge equals to?
 
