@@ -32,6 +32,8 @@
 
 - Git fetch + git merge equals to?
 
+`git pull`
+
 - The act of transferring commits from your local repository to a remote repository is known as?
 
 - Which command is used to return to the main branch?
