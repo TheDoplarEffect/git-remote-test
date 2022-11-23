@@ -10,6 +10,8 @@
 
 - What is correct command to commit staged files?
 
+`git commit -m ""`
+
 - What is correct command to check the current git status?
 
 - To stage only files with a .txt extention, the command is?
