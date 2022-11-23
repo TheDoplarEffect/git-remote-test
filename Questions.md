@@ -18,6 +18,8 @@
 
 - To stage only files with a .txt extention, the command is?
 
+`git add *.txt`
+
 - Assuming a remote reposistory at https://github.com/myawesomegitname/my_repo.git, how would you add the remote repository to your local git?
 
 - To make a new git branch, the git command is?
