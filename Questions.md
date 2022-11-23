@@ -39,4 +39,6 @@
 
 - Which command is used to return to the main branch?
 
+`git switch master`
+
 - Which command deletes untracked for your working directory?
