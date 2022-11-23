@@ -2,6 +2,8 @@
 
 - What is correct command to initialize a new git repository ?
 
+`git init`
+
 - What is correct command to stage a new file or add file changes to stage?
 
 - What is correct command to commit staged files?
