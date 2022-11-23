@@ -6,6 +6,8 @@
 
 - What is correct command to stage a new file or add file changes to stage?
 
+`git add`
+
 - What is correct command to commit staged files?
 
 - What is correct command to check the current git status?
