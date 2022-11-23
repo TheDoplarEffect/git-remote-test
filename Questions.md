@@ -14,6 +14,8 @@
 
 - What is correct command to check the current git status?
 
+`git status`
+
 - To stage only files with a .txt extention, the command is?
 
 - Assuming a remote reposistory at https://github.com/myawesomegitname/my_repo.git, how would you add the remote repository to your local git?
